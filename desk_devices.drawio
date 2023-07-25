@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T21:31:52.070Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="veAE0m_HpZNsRxbMcaqU" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-25T21:38:47.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="FnEJrdggLrTaG5mdC8tb" version="21.6.5" type="github">
   <diagram name="Page-1" id="5SgXbwXxBP1pDttXFV0r">
     <mxGraphModel dx="1434" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -42,6 +42,27 @@
         </mxCell>
         <mxCell id="n4q6A4JxhNrJ-Pbm7-Qi-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i8lRKbVb1TZM2mzW88LY-1" value="USB C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i8lRKbVb1TZM2mzW88LY-2" value="USB - walkie talkie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i8lRKbVb1TZM2mzW88LY-3" value="Braun" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i8lRKbVb1TZM2mzW88LY-4" value="HP laptop?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i8lRKbVb1TZM2mzW88LY-5" value="Charging" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i8lRKbVb1TZM2mzW88LY-6" value="Desk 8-way" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="330" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i8lRKbVb1TZM2mzW88LY-7" value="Use wifi switch extension lead&lt;br&gt;This includes USB ..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="170" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
