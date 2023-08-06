@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T12:08:55.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="d45nuWjqb8nEhBUEYDOu" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-06T22:05:51.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="wCDPNZU9QlQ0y5Gyinfz" version="21.6.6" type="github">
   <diagram name="Page-1" id="5SgXbwXxBP1pDttXFV0r">
     <mxGraphModel dx="1434" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -64,29 +64,47 @@
         <mxCell id="i8lRKbVb1TZM2mzW88LY-7" value="Use wifi switch extension lead&lt;br&gt;This includes USB ..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="720" y="170" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JBNuLOp7Ni5BzTbXU_S9-1" value="Charybdis server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JBNuLOp7Ni5BzTbXU_S9-1" value="Charybdis server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JBNuLOp7Ni5BzTbXU_S9-2" value="Gaming desktop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JBNuLOp7Ni5BzTbXU_S9-2" value="Gaming desktop" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JBNuLOp7Ni5BzTbXU_S9-3" value="NAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JBNuLOp7Ni5BzTbXU_S9-3" value="NAS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JBNuLOp7Ni5BzTbXU_S9-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JBNuLOp7Ni5BzTbXU_S9-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JBNuLOp7Ni5BzTbXU_S9-5" value="Wall" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JBNuLOp7Ni5BzTbXU_S9-5" value="Wall" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JBNuLOp7Ni5BzTbXU_S9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JBNuLOp7Ni5BzTbXU_S9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JBNuLOp7Ni5BzTbXU_S9-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JBNuLOp7Ni5BzTbXU_S9-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JBNuLOp7Ni5BzTbXU_S9-8" value="6-way?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JBNuLOp7Ni5BzTbXU_S9-8" value="6-way?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o-rhIYhMUKnAXM52DSyO-1" value="Display 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o-rhIYhMUKnAXM52DSyO-2" value="Dell Dock + Desk Lamp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o-rhIYhMUKnAXM52DSyO-3" value="Display 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o-rhIYhMUKnAXM52DSyO-4" value="Wifi Repeater" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o-rhIYhMUKnAXM52DSyO-5" value="Library" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="870" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o-rhIYhMUKnAXM52DSyO-6" value="Consider power load of devices&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1050" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
